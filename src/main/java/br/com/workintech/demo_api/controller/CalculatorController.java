@@ -1,6 +1,7 @@
 package br.com.workintech.demo_api.controller;
 
 import br.com.workintech.demo_api.services.Calculator;
+import br.com.workintech.demo_api.services.ConversorTemperatura;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
 
